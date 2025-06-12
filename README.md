@@ -1,3 +1,10 @@
+
+LINK
+
+https://imdb-sentiment-rnn-app-fqqjp2mkfxmqppnsqzqjzy.streamlit.app/
+
+
+
 # 🎬 IMDB Movie Review Sentiment Analysis
 
 This is a Streamlit web application that performs **sentiment analysis** on movie reviews using a **Simple RNN model** trained on the IMDB dataset.
